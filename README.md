@@ -1,5 +1,6 @@
 # home_task_idf
 
+
 This code with asumption that each sentance ends with a dot('.') ans dots appears at the end of sentences.
 input=file = FileManipulation('full_file.txt', 'f')
 output=
